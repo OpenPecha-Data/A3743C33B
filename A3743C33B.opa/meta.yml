@@ -1,0 +1,19 @@
+id: A3743C33B
+title: Prayer to Jamyang Khyentse Chökyi Lodrö Composed for Ngawang Sherab
+type: translation
+pechas:
+- I79E39991
+- I6042E363
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:25.038034
+  last_modified_at: 2023-01-04 12:35:25.038044
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I79E39991/B605: '7202'
+  I6042E363/D54C: '7202'
